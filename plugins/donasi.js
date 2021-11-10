@@ -1,10 +1,10 @@
 let handler = async m => m.reply(`
 ┌〔 Donasi • Pulsa 〕
-├ Telkomsel [081351047727]
+├ Tri [089603042257]
 └────
 
 ┌〔 Donasi • Emoney 〕
-├ OVO, Dana [081351047727]
+├  Dana [089603042257]
 └────
  saweria.co/manilman
  donasi tuh buat 
